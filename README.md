@@ -5,3 +5,8 @@ Currently working on:
 * 🛠️ [toolstud.io](https://toolstud.io/): calculators & converters for color, bandwidth, speed, ... (PHP)
 * ⛅ [wattpeakhours.com](https://wattpeakhours.com/): monitor & compare solar panel performance worldwide (Laravel)
 * 👛 [www.churlie.com](https://www.churlie.com/): website portfolio manager (Laravel)
+
+
+Also check:
+* 📜 [pforret/bashew](https://github.com/pforret/bashew): my template for easy bash scripting (and [basher.it](https://www.basher.it/) bash package manager)
+* 🧔‍ [blog.forret.com](https://blog.forret.com/): my blog
