@@ -3,11 +3,15 @@
 Currently working on:
 
 * 🛠️ [toolstud.io](https://toolstud.io/): calculators & converters for color, bandwidth, speed, ... (PHP)
-* ⛅ [wattpeakhours.com](https://wattpeakhours.com/): monitor & compare solar panel performance worldwide (Laravel)
+* 🔥 [indiecatastrophe.com](https://indiecatastrophe.com/): a website about preparing your indie business for the worst case scenarios
+* 🖨️ [printthatvideo.com](https://printthatvideo.com/): print short videos to PDF (Laravel)
 * 👛 [www.churlie.com](https://www.churlie.com/): website portfolio manager (Laravel)
-* 🖨️ [printthatvideo.com](https://printthatvideo.com/): print short videos to PDF
 
+My `bash`/`shell` scripting projects
+
+* 📜 [pforret/bashew](https://github.com/pforret/bashew): my micro framework for easy bash scripting (also check my [bashew scripts](https://github.com/topics/bashew?o=desc&s=updated))
+* 🦪 [basher.it](https://www.basher.it/) bash package manager and repository
+* 📃 [https://bash.forret.com/](https://bash.forret.com/): Bashful Scripting blog for Bash Scripting enthusiasts
 
 Also check:
-* 📜 [pforret/bashew](https://github.com/pforret/bashew): my template for easy bash scripting (and [basher.it](https://www.basher.it/) bash package manager)
 * 🧔‍ [blog.forret.com](https://blog.forret.com/): my blog
