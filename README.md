@@ -3,8 +3,6 @@
 Currently working on:
 
 * 🛠️ [toolstud.io](https://toolstud.io/): calculators & converters for color, bandwidth, speed, ... (PHP)
-* 🔥 [indiecatastrophe.com](https://indiecatastrophe.com/): a website about preparing your indie business for the worst case scenarios
-* 🖨️ [printthatvideo.com](https://printthatvideo.com/): print short videos to PDF (Laravel)
 * 👛 [www.churlie.com](https://www.churlie.com/): website portfolio manager (Laravel)
 
 My `bash`/`shell` scripting projects
