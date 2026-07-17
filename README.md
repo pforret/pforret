@@ -1,9 +1,8 @@
-![pforret Github stats](https://github-readme-stats.vercel.app/api?username=pforret&show_icons=1&count_private=true&hide_border=1)
 
 Currently working on:
 
+* 🎞 [dcproof.net](https://www.dcproof.net): automated AI-powered quality-control and content-control service for short-form videos
 * 🛠️ [toolstud.io](https://toolstud.io/): calculators & converters for color, bandwidth, speed, ... (PHP)
-* 👛 [www.churlie.com](https://www.churlie.com/): website portfolio manager (Laravel)
 
 My `bash`/`shell` scripting projects
 
